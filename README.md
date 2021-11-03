@@ -1,2 +1,0 @@
-# NewsApp
-# NEWS-APP12
